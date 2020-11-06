@@ -1,0 +1,5 @@
+D:\Cod Visual Studio\Clock\Clock\Debug\Clock.vcxprojAssemblyReference.cache
+D:\Cod Visual Studio\Clock\Clock\Debug\Clock.MyForm.resources
+D:\Cod Visual Studio\Clock\Clock\Debug\Clock.vcxproj.GenerateResource.cache
+D:\Cod Visual Studio\Clock\Clock\Debug\Clock.exe
+D:\Cod Visual Studio\Clock\Clock\Debug\Clock.pdb

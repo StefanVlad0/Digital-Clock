@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+D:\Cod Visual Studio\Clock\Clock\MyForm.h(333,22): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Clock.vcxproj -> D:\Cod Visual Studio\Clock\Clock\Debug\Clock.exe
