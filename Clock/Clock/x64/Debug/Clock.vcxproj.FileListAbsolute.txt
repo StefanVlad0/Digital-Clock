@@ -1,0 +1,5 @@
+E:\Descarcari\Digital-Clock-main\Digital-Clock-main\Clock\Clock\x64\Debug\Clock.vcxproj.AssemblyReference.cache
+E:\Descarcari\Digital-Clock-main\Digital-Clock-main\Clock\Clock\x64\Debug\Clock.vcxproj.SuggestedBindingRedirects.cache
+E:\Descarcari\Digital-Clock-main\Digital-Clock-main\Clock\Clock\x64\Debug\Clock.MyForm.resources
+E:\Descarcari\Digital-Clock-main\Digital-Clock-main\Clock\Clock\x64\Debug\Clock.vcxproj.GenerateResource.cache
+E:\Descarcari\Digital-Clock-main\Digital-Clock-main\Clock\Clock\x64\Debug\Clock.exe
